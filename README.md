@@ -9,5 +9,5 @@
 
 - La puntuacion es una combinacion de los ataques efectivos en los enemigos por la cantidad de vidas que tiene nuestra nave.
 
-# [Camilo Ramirez Alacon](https://avatars0.githubusercontent.com/u/19671942?s=400&v=4)
+# Camilo Ramirez Alacon
 
