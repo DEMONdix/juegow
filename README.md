@@ -6,3 +6,6 @@
 
 
 - La puntuacion se encuentra en [player.score](https://github.com/DEMONdix/juegow/blob/master/spacewar/js/videojuego-javascript.js) linea 196 para su uso en la persistencia deseada
+
+
+-    <img src="https://avatars0.githubusercontent.com/u/19671942?s=400&v=4">
